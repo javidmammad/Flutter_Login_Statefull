@@ -1,3 +1,5 @@
+
+https://github.com/javidmammad/Flutter_Login_Statefull/assets/85358896/dfb62101-c6f7-4050-88f1-6e3540de462d
 # login_stateful
 
 A new and simple animation Flutter project where I used challenging approach whether to use Statefull WIdgets
@@ -8,5 +10,4 @@ Technologies and Tools:
 - Streams
 - Animation
 
-https://github.com/javidmammad/Flutter_Login_Statefull/assets/85358896/8673d3e1-802d-4253-b4c2-733012d6e9a1
-
+Uploading Screen Recording 2023-08-26 at 00.14.51.mov…
